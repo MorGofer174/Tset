@@ -6,5 +6,6 @@ public class Test1 {
     }
     public static void Mor(){
         System.out.println("mor");
+        System.out.println("and again");
     }
 }
